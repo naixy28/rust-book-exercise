@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "hello_cargo"
+    },
+    {
+      "path": "hello_world"
+    },
+    {
+      "path": "rectangles"
+    },
+    {
+      "path": "variables"
+    },
+    {
+      "path": "restaurant"
+    }
+  ],
+  "settings": {}
+}

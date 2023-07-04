@@ -1,1 +1,0 @@
-/Users/naixy28/Documents/proj/rust-book/restaurant/target/debug/restaurant: /Users/naixy28/Documents/proj/rust-book/restaurant/src/lib.rs /Users/naixy28/Documents/proj/rust-book/restaurant/src/main.rs

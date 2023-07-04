@@ -17,6 +17,9 @@
     },
     {
       "path": "restaurant"
+    },
+    {
+      "path": "collections"
     }
   ],
   "settings": {}
